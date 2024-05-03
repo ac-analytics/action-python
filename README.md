@@ -6,6 +6,9 @@
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ac-analytics/action-python?logo=github&sort=semver)](https://github.com/ac-analytics/action-python/releases)
 [![action-bumpr supported](https://img.shields.io/badge/bumpr-supported-ff69b4?logo=github&link=https://github.com/haya14busa/action-bumpr)](https://github.com/haya14busa/action-bumpr)
 
+
+**DEPRECATED** Maintained for posterity only. Use more updated action library [altcoder/action-python](https://github.com/altcoder/action-python)
+
 This repo contains a action to run various Python tools including:
 - [bandit](https://pypi.org/project/bandit)
 - [black](https://pypi.org/project/black)
